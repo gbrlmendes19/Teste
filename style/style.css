@@ -1,0 +1,29 @@
+.user-logo{
+  height: 60%;
+  margin-top: 35%;
+}
+.centralbar{
+    margin-top: 4%;
+}
+.icon-conf{
+  margin-left: 1%;
+}
+.videos{
+  height: 25%;
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 8%;
+}
+.video{
+  height: 95%;
+  margin-left: 1%;
+  margin-top: 0.5%;
+  width: 19%;
+  float: left;
+  border-radius: 4px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.scrollb{
+  margin-top: 1%;
+}
